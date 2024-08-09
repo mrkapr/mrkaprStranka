@@ -1,0 +1,44 @@
+.header {
+    padding: 25px;
+    background-color: rgb(0, 9, 133);
+    border: solid black 10px;
+    border-radius: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#popis{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.socialnisite{
+    display: flex;
+    justify-content: space-between;
+}
+
+#instagram{
+    font-size: 25;
+}
+
+
+.bar {
+    text-shadow: 0 0 10px #fff, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+#omne {
+    font-size: 30px;
+    color: rgb(133, 133, 133);
+}
+
+.tlacitka > iframe{
+    background-color: white;
+    border-radius: 40px;
+ 
+}
